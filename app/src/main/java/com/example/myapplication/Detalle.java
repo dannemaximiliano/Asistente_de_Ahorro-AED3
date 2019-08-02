@@ -57,7 +57,7 @@ public class Detalle extends Activity {
                 txt1.append(fecha + "\n");
                 txt2.append(concepto + "\n");
 
-                //REVISAR ESTA PARTE -- NO ME TOMA LOS VALORES
+                //REVISAR ESTA PARTE -- NO ME TOMA LOS VALORES (negativo postivo)
 
 
                 if (Integer.parseInt(monto) < 0) {
